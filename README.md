@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kokiagata
-- 👀 I’m interested in back-end programming using JS
-- 🌱 I’m currently learning mern
+- 👋 Hi, I’m Koki Agata. I am a self-taught programmer with experiences in both front-end and back-end programming. I am mostly using JavaScript and its middledwares, but also learning other languages to expand my expertise.
+- 👀 I’m interested more so in back-end programming, but I also enjoy creating responsive front-end projects.
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on anything I can contribute!
 - 📫 How to reach me: e-mail
 
